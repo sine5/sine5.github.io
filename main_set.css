@@ -1,0 +1,42 @@
+body {
+    font-family: "Comic sans MS";
+}
+
+h3 {
+    color: greenyellow;
+    text-align: center;
+}
+
+p {
+    font-family: "Comic Sans", "楷体";
+    font-size: 20px;
+}
+
+th {
+    font-size: 20px;
+    color: darkgoldenrod;
+}
+
+td {
+    font-size: 16px;
+    color: black;
+}
+
+.web {
+    width: 800px;
+    height: 600px;
+    color: white;
+    border: 1px solid black;
+    background: url("bg/mainbackground.jpg") bottom center repeat;
+}
+
+.AD {
+    width: 800px;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.none {
+    width: 800px;
+    height: 10px;
+}
